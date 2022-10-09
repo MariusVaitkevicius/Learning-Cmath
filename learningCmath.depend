@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1665331138 source:c:\users\mariu\onedrive\documents\codeblocksprojects\cppproject\learning2 cmath\learningcmath\main.cpp
+	<iostream>
+	<cmath>
+
